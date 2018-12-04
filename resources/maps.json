@@ -1,0 +1,28 @@
+{
+  "maps": [
+    {"mapId":1,
+      "mapName":"Athen",
+      "private": true,
+      "points": [
+        {"pointId":1,
+          "name":"elso",
+          "coordinates":{"lat":34, "lon":1},
+          "description":"",
+          "icon":null,
+          "tags":[],
+          "properties":[{
+            "url":"",
+            "e-mail":"",
+            "openingHours":"",
+            "seasonalOpenings":""
+            }],
+            "photos":[]
+        }
+        ],
+        "layers":[{
+          "layerid":1,
+          "containedPoints":[1]
+        }]
+    }
+  ]
+}
